@@ -8,7 +8,7 @@
 4) Run 'vagrant suspend' if you want to stop it from running and save it automativally
 5) Run 'vagrant ssh' to enter the VM and use the Ubuntu System
 
-### After Entering the VM using the previous steps:-
+## After Entering the VM using the previous steps:-
 - 'uanme' to check the Machine name to ensure you are in the VM
 1) 'sudo apt-get update -y' in VM to update Linux
 2) 'sudo apt-get upgrade-y' in VM to upgrade Linux
